@@ -5,7 +5,7 @@ const Modal = ({ closeModal, trabajo }) => {
     
   return (
     <>
-      <div className="overlay" id="overlay">
+      <div className="overlay" id="overlay" onClick={closeModal}>
         <div className="modal">
           <button className="boton-cerrar" id="btn-cerrar" onClick={closeModal}>
             <svg

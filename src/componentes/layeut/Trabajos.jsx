@@ -96,14 +96,14 @@ const Trabajos = () => {
                         </a>
                         <div className="info">
                             <div className="textos">
-                                <a href= "#" className="nombre"> 
+                                <a href= "#" className="nombre" onClick={(e) => openModal(e, trabajo.id)}> 
                                     {trabajo.info.nombre}
                                 </a>
                                 <p className="categoria">
                                     {trabajo.info.categoria}
                                 </p>
                             </div>
-                            <a href= "#" className="btn-ir">
+                            <a href= "#" className="btn-ir" onClick={(e) => openModal(e, trabajo.id)}>
                                 <svg xmlns="http://www.w3.org/2000/svg" 
                                     fill="currentColor" 
                                     viewBox="0 0 16 16">
