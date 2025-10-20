@@ -160,7 +160,8 @@ const trabajos = [
                     <img src="./ASSEST/TRABAJOS/5_a.png" alt="Portada de Libro" /> 
 
                     <p>
-                        Este trabajo me permitió explorar la relación entre la música y la imagen, comprendiendo cómo una portada puede transmitir la identidad y el estado emocional de un artista sin necesidad de palabras. También me ayudó a experimentar con la fusión entre fotografía e ilustración, aprendiendo a equilibrar ambos lenguajes visuales para crear una composición coherente, simbólica y con fuerza narrativa. </p>
+                        El trabajo me permitió explorar la narrativa visual como traducción simbólica del texto, entendiendo cómo elementos simples como la postura, la mirada o el espacio pueden anticipar el tono y la atmósfera de una historia sin necesidad de palabras. 
+                    </p>
 
                 </>
             )
