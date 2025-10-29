@@ -1,6 +1,49 @@
 
 const trabajos = [
 
+     {
+        id: 10,
+        categoria: 'branding-e-identidad-visual',
+        thumb: {
+            url: './ASSEST/TRABAJOS/10.png',
+            alt: `Trabajo 10`
+        },
+        info: {
+            nombre: `Diseña un logotipo - ejercicio de síntesis visual y conceptualización`,
+            categoria: 'Branding e Identidad Visual',
+            contenido: (
+                <>
+                    <p>
+                        El trabajo consistió en un ejercicio de autoconocimiento y diseño rápido, donde debía responder una serie de preguntas sobre mis fortalezas, debilidades, intereses y aspiraciones como diseñador, para luego crear un logotipo personal en solo diez minutos. La consigna buscaba reflejar, de manera espontánea, mi identidad visual y mi forma de pensar el diseño.
+
+                    </p>
+
+                    <img src="./ASSEST/TRABAJOS/10.png" alt="mockup" />
+
+                    <p>
+                        En mis respuestas identifiqué como fortalezas mi capacidad para componer ideas, ilustrar y generar conceptos visuales con facilidad, y como debilidades la dificultad para organizarme y decidir con rapidez. Elegí el color azul por su tranquilidad y claridad, valores que asocio con mi manera de trabajar.
+                    </p>
+
+                    <img src="./ASSEST/TRABAJOS/10a.jpg" alt="foto de hoja" /> 
+
+                    <p>
+                        El resultado fue una serie de bocetos para mi marca LAVIAL, explorando distintos estilos tipográficos y símbolos.
+                    </p>
+
+                    <img src="./ASSEST/TRABAJOS/10.jpg" alt="mockup1" /> 
+
+                    <p>
+                        Este trabajo me permitió mirar mi propio proceso creativo desde afuera, reconocer mis hábitos y modos de trabajo, y traducir mi identidad en un lenguaje visual que me represente sin sobrepensarlo.
+                    </p>
+
+                    <img src="./ASSEST/TRABAJOS/10c.png" alt="mockup2" />
+                    <img src="./ASSEST/TRABAJOS/10b.jpg" alt="mockup3" />
+
+                </>
+            )
+        }
+    },
+
     {
         id: 11,
         categoria: 'creatividad-visual-y-conceptualización',
@@ -32,7 +75,6 @@ const trabajos = [
             )
         }
     },
- 
 
     {
         id: 12,
