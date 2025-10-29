@@ -18,26 +18,24 @@ const trabajos = [
 
                     </p>
 
-                    <img src="./ASSEST/TRABAJOS/10.png" alt="mockup" />
+                    <img src="./ASSEST/TRABAJOS/10a.jpg" alt="mockup" />
 
                     <p>
                         En mis respuestas identifiqué como fortalezas mi capacidad para componer ideas, ilustrar y generar conceptos visuales con facilidad, y como debilidades la dificultad para organizarme y decidir con rapidez. Elegí el color azul por su tranquilidad y claridad, valores que asocio con mi manera de trabajar.
                     </p>
 
-                    <img src="./ASSEST/TRABAJOS/10a.jpg" alt="foto de hoja" /> 
+                    <img src="./ASSEST/TRABAJOS/10.jpg" alt="foto de hoja" /> 
 
                     <p>
                         El resultado fue una serie de bocetos para mi marca LAVIAL, explorando distintos estilos tipográficos y símbolos.
                     </p>
 
-                    <img src="./ASSEST/TRABAJOS/10.jpg" alt="mockup1" /> 
+                    <img src="./ASSEST/TRABAJOS/10c.png" alt="mockup1" /> 
+                    <img src="./ASSEST/TRABAJOS/10b.jpg" alt="mockup3" />
 
                     <p>
                         Este trabajo me permitió mirar mi propio proceso creativo desde afuera, reconocer mis hábitos y modos de trabajo, y traducir mi identidad en un lenguaje visual que me represente sin sobrepensarlo.
                     </p>
-
-                    <img src="./ASSEST/TRABAJOS/10c.png" alt="mockup2" />
-                    <img src="./ASSEST/TRABAJOS/10b.jpg" alt="mockup3" />
 
                 </>
             )
