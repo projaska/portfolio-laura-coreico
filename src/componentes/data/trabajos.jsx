@@ -1,5 +1,40 @@
 
 const trabajos = [
+
+ {
+        id: 4,
+        categoria: 'branding-e-identidad-visual',
+        thumb: {
+            url: './ASSEST/TRABAJOS/12.mp4',
+            alt: `Trabajo 12`
+        },
+        info: {
+            nombre: `Gymkana creativa `,
+            categoria: 'Branding e Identidad Visual',
+            contenido: (
+                <>
+                    <p>
+                        El trabajo consistió en una serie de desafíos breves de diseño inspirados en el libro Unos pocos minutos de diseño de Emily Campbell. A través de cartas con consignas visuales y tiempos límite, debíamos resolver ejercicios que ponían a prueba la creatividad, rapidez y capacidad de síntesis gráfica.
+
+                    </p>
+
+                    <img src="./ASSEST/TRABAJOS/12.jpeg" alt="Boceto1" />
+                    <img src="./ASSEST/TRABAJOS/12a.jpeg" alt="Boceto2" />
+
+                    <p>
+                        Desarrollé los desafíos El que no encaja, Imaginate cómo representarlo, Familia extendida y Pitch de ingenuidad, cada uno con un enfoque distinto: desde analizar objetos fuera de contexto hasta crear símbolos o representar información visualmente.
+                    </p>
+
+                    <img src="./ASSEST/TRABAJOS/12.jpg" alt="Parte1" /> 
+                    <img src="./ASSEST/TRABAJOS/12a.jpg" alt="Parte2" /> 
+
+                    <p>
+                        Este trabajo me permitió explorar la relación entre la música y la imagen, comprendiendo cómo una portada puede transmitir la identidad y el estado emocional de un artista sin necesidad de palabras. También me ayudó a experimentar con la fusión entre fotografía e ilustración, aprendiendo a equilibrar ambos lenguajes visuales para crear una composición coherente, simbólica y con fuerza narrativa. </p>
+
+                </>
+            )
+        }
+    },   
     
     {
         id: 1,
