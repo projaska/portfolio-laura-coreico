@@ -14,7 +14,7 @@ const AcercaDe =  () => {
                         <h4 className="pre-titulo">Acerca de mí</h4>
                         <h3 className="titulo">La razon por la que deberias aprobarme</h3>
                         <p className="resumen">
-                            Hola soy Laura Coreico, una apasioda diseñadora dedicada a convertir ideas en realidad. Con un enfoque creativo y minucioso, transformo proyectos en experiencias unicas.
+                            Hola soy Laura Coreico, una apasionada diseñadora dedicada a convertir ideas en realidad. Con un enfoque creativo y minucioso, transformo proyectos en experiencias unicas.
                         </p><p className="resumen">
                              Considero que deberían aprobarme porque en cada trabajo pude plasmar una interpretación personal y consciente de las consignas. No me limité a cumplir lo técnico, sino que busqué transmitir una idea o una emoción a través de la imagen y explorar el uso de distintas herramientas digitales, combinando procesos manuales y digitales para enriquecer el resultado visual. Cada ejercicio me permitió reflexionar sobre la relación entre palabra, concepto y forma, y cómo estos elementos pueden convivir para contar algo más profundo. Siento que logré mantener coherencia estética, intención narrativa y una mirada crítica, mostrando que detrás de cada pieza hubo un proceso de pensamiento y no solo una ejecución.
                         </p>
