@@ -30,7 +30,7 @@ const trabajos = [
                         El resultado fue una serie de bocetos para mi marca LAVIAL, explorando distintos estilos tipográficos y símbolos.
                     </p>
 
-                    <img src="./ASSEST/TRABAJOS/10c.jng" alt="mockup1" /> 
+                    <img src="./ASSEST/TRABAJOS/10c.jpg" alt="mockup1" /> 
                     <img src="./ASSEST/TRABAJOS/10b.png" alt="mockup3" />
 
                     <p>
