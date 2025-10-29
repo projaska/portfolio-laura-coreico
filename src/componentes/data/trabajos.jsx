@@ -1,8 +1,41 @@
 
 const trabajos = [
 
- {
-        id: 4,
+    {
+        id: 11,
+        categoria: 'creatividad-visual-y-conceptualización',
+        thumb: {
+            url: '../ASSEST/TRABAJOS/11.png',
+            alt: `Trabajo 11`
+        },
+        info: {
+            nombre: `Ejercicio de SCAMPER`,
+            categoria: 'Creatividad Visual y Conceptualización',
+            contenido: (
+                <>
+                    <p>
+                        El trabajo consistió en aplicar la metodología SCAMPER (Sustituir, Combinar, Adaptar, Modificar, Proponer, Eliminar y Reordenar) para generar ideas a partir de un mismo punto de partida. Cada integrante debía aportar propuestas dentro de esas categorías, fomentando un pensamiento divergente y colectivo.
+                    </p>
+
+                    <img src="../ASSEST/TRABAJOS/11a.png" alt="scamper" />
+
+                    <p>
+                        La dinámica fue muy enriquecedora porque permitió que surgieran muchas ideas en poco tiempo, sin descartar ninguna de entrada. El proceso resultó democrático y colaborativo, ya que cada aporte se integró de manera organizada dentro de una estructura visual clara, lo que ayudó a no perder el rumbo creativo.
+                    </p>
+
+                    <img src="../ASSEST/TRABAJOS/11b.png" alt="Boceto" /> 
+
+                    <p>
+                        Este trabajo me permitió ejercitar la generación de ideas múltiples frente a un mismo problema, entender la importancia de los distintos enfoques dentro del proceso creativo y valorar cómo la colaboración potencia la innovación cuando se trabaja con método y apertura.
+                    </p>
+                </>
+            )
+        }
+    },
+ 
+
+    {
+        id: 12,
         categoria: 'branding-e-identidad-visual',
         thumb: {
             url: './ASSEST/TRABAJOS/12.mp4',
@@ -29,7 +62,8 @@ const trabajos = [
                     <img src="./ASSEST/TRABAJOS/12a.jpg" alt="Parte2" /> 
 
                     <p>
-                        Este trabajo me permitió explorar la relación entre la música y la imagen, comprendiendo cómo una portada puede transmitir la identidad y el estado emocional de un artista sin necesidad de palabras. También me ayudó a experimentar con la fusión entre fotografía e ilustración, aprendiendo a equilibrar ambos lenguajes visuales para crear una composición coherente, simbólica y con fuerza narrativa. </p>
+                        Este trabajo me permitió ejercitar la agilidad mental, improvisar soluciones creativas en poco tiempo y reforzar la idea de que el diseño también se aprende jugando, experimentando y saliendo de la zona de confort.
+                    </p>
 
                 </>
             )
