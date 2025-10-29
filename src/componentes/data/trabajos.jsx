@@ -30,8 +30,8 @@ const trabajos = [
                         El resultado fue una serie de bocetos para mi marca LAVIAL, explorando distintos estilos tipográficos y símbolos.
                     </p>
 
-                    <img src="./ASSEST/TRABAJOS/10c.png" alt="mockup1" /> 
-                    <img src="./ASSEST/TRABAJOS/10b.jpg" alt="mockup3" />
+                    <img src="./ASSEST/TRABAJOS/10c.jng" alt="mockup1" /> 
+                    <img src="./ASSEST/TRABAJOS/10b.ppg" alt="mockup3" />
 
                     <p>
                         Este trabajo me permitió mirar mi propio proceso creativo desde afuera, reconocer mis hábitos y modos de trabajo, y traducir mi identidad en un lenguaje visual que me represente sin sobrepensarlo.
