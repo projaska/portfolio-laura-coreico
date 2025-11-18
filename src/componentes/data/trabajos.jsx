@@ -575,6 +575,51 @@ const trabajos = [
 	},
 
 	{
+		id:9,
+		categoria: "ux-y-diseño-editorial",
+		thumb: {
+			url: "./ASSEST/TRABAJOS/9.png",
+			alt: `Trabajo 9`, 
+		},
+		info: {
+			nombre: `UI – Plataforma de cortos MOVIEcore`,
+			categoria: "UX y Diseño Editorial",
+			contenido: (
+				<>
+					<p>
+						El ejercicio consistió en n crear una interfaz de usuario para un sitio web de cortometrajes, priorizando una estructura clara y reduciendo la cantidad de clics necesarios para acceder a cada película. El objetivo era diseñar una experiencia simple, directa y funcional.
+					</p>
+
+					<img
+						src="./ASSEST/TRABAJOS/9a.jpeg"
+						alt="borrador"
+					/>
+
+					<p>
+						Trabajamos en equipo, comenzando por bocetos en papel, donde exploramos diferentes formas de organizar la información: filtros, carrusel, categorías y accesos directos. Tras un tiempo de deliberación, votamos cuál era la propuesta más efectiva y pasamos a depurarla digitalmente. El resultado fue una interfaz que permite ver contenido rápidamente, con un carrusel principal destacado, filtros visibles y accesos a las películas con sinopsis y puntuación inmediata.
+					</p>
+
+					
+					<img
+						src="./ASSEST/TRABAJOS/9.jpg"
+						alt="boceto web"
+					/>
+
+					<h3>Metacognición Grupal</h3>
+
+					<p>
+						El ejercicio nos permitió reflexionar sobre cómo se construye una interfaz funcional desde cero. Si bien al inicio tuvimos dudas sobre qué parte de la interfaz desarrollar —si la pantalla inicial o una sección más avanzada—, logramos organizarnos y acordar una dirección común sin mayores conflictos.
+
+						Lo más desafiante fue plasmar las ideas en el papel y organizarnos como grupo, especialmente al momento de sintetizar conceptos distintos en una sola propuesta. Aun así, la experiencia fue constructiva: pudimos debatir, elegir en conjunto y llegar a un diseño final sin depender de redes ni inteligencia artificial.
+
+						En general, sentimos que el ejercicio nos ayudó a comprender mejor los procesos del diseño de interfaces, especialmente cómo equilibrar funcionalidad, claridad y tiempo de interacción del usuario.
+					</p>
+				</>
+			),
+		},
+	},
+
+	{
 		id: 13,
 		categoria: "branding-e-identidad-visual",
 		type: "video",
@@ -660,50 +705,6 @@ const trabajos = [
 		},
 	},
 
-	{
-		id:15,
-		categoria: "ux-y-diseño-editorial",
-		thumb: {
-			url: "./ASSEST/TRABAJOS/9.png",
-			alt: `Trabajo 15`,
-		},
-		info: {
-			nombre: `UI – Plataforma de cortos MOVIEcore`,
-			categoria: "UX y Diseño Editorial",
-			contenido: (
-				<>
-					<p>
-						El ejercicio consistió en n crear una interfaz de usuario para un sitio web de cortometrajes, priorizando una estructura clara y reduciendo la cantidad de clics necesarios para acceder a cada película. El objetivo era diseñar una experiencia simple, directa y funcional.
-					</p>
-
-					<img
-						src="./ASSEST/TRABAJOS/9a.jpeg"
-						alt="borrador"
-					/>
-
-					<p>
-						Trabajamos en equipo, comenzando por bocetos en papel, donde exploramos diferentes formas de organizar la información: filtros, carrusel, categorías y accesos directos. Tras un tiempo de deliberación, votamos cuál era la propuesta más efectiva y pasamos a depurarla digitalmente. El resultado fue una interfaz que permite ver contenido rápidamente, con un carrusel principal destacado, filtros visibles y accesos a las películas con sinopsis y puntuación inmediata.
-					</p>
-
-					
-					<img
-						src="./ASSEST/TRABAJOS/9.jpg"
-						alt="boceto web"
-					/>
-
-					<h3>Metacognición Grupal</h3>
-
-					<p>
-						El ejercicio nos permitió reflexionar sobre cómo se construye una interfaz funcional desde cero. Si bien al inicio tuvimos dudas sobre qué parte de la interfaz desarrollar —si la pantalla inicial o una sección más avanzada—, logramos organizarnos y acordar una dirección común sin mayores conflictos.
-
-						Lo más desafiante fue plasmar las ideas en el papel y organizarnos como grupo, especialmente al momento de sintetizar conceptos distintos en una sola propuesta. Aun así, la experiencia fue constructiva: pudimos debatir, elegir en conjunto y llegar a un diseño final sin depender de redes ni inteligencia artificial.
-
-						En general, sentimos que el ejercicio nos ayudó a comprender mejor los procesos del diseño de interfaces, especialmente cómo equilibrar funcionalidad, claridad y tiempo de interacción del usuario.
-					</p>
-				</>
-			),
-		},
-	},
 
 ];
 
