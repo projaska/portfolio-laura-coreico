@@ -687,7 +687,7 @@ const trabajos = [
 					</p>
 
 					<p>
-						El Umbral de la Confianza representa el proceso de superar el miedo, confiar en el otro y encontrar equilibrio entre forma, movimiento y emoción. <>br</>
+						El Umbral de la Confianza representa el proceso de superar el miedo, confiar en el otro y encontrar equilibrio entre forma, movimiento y emoción. <br />
 						Cada elemento desde la paleta análoga del bosque hasta el ritmo de la animación busca transmitir una experiencia sensorial donde la percepción se transforma en significado.
 					</p>
 
