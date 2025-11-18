@@ -664,7 +664,7 @@ const trabajos = [
 		id:15,
 		categoria: "ux-y-diseño-editorial",
 		thumb: {
-			url: "./ASSEST/TRABAJOS/5.png",
+			url: "./ASSEST/TRABAJOS/9.png",
 			alt: `Trabajo 15`,
 		},
 		info: {
@@ -676,16 +676,16 @@ const trabajos = [
 						El ejercicio consistió en n crear una interfaz de usuario para un sitio web de cortometrajes, priorizando una estructura clara y reduciendo la cantidad de clics necesarios para acceder a cada película. El objetivo era diseñar una experiencia simple, directa y funcional.
 					</p>
 
-					<img src="./ASSEST/TRABAJOS/9.png" alt="Boceto" />
+					<img
+						src="./ASSEST/TRABAJOS/9a.jpeg"
+						alt="borrador"
+					/>
 
 					<p>
 						Trabajamos en equipo, comenzando por bocetos en papel, donde exploramos diferentes formas de organizar la información: filtros, carrusel, categorías y accesos directos. Tras un tiempo de deliberación, votamos cuál era la propuesta más efectiva y pasamos a depurarla digitalmente. El resultado fue una interfaz que permite ver contenido rápidamente, con un carrusel principal destacado, filtros visibles y accesos a las películas con sinopsis y puntuación inmediata.
 					</p>
 
-					<img
-						src="./ASSEST/TRABAJOS/9a.jpeg"
-						alt="borrador"
-					/>
+					
 					<img
 						src="./ASSEST/TRABAJOS/9.jpg"
 						alt="boceto web"
